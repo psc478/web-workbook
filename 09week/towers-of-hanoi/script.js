@@ -91,6 +91,7 @@ $(document).ready(function() {
   })
 
   var $block = null;
+  
   $('[data-stack]').click(function() {
     if (!$block) {
       $block = $(this).children().last().detach();

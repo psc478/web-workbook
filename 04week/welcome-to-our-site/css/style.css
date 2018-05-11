@@ -76,6 +76,11 @@ p {
     padding-left: 50px;
     padding-right: 50px;
     box-sizing: border-box;
+    min-width: 280px;
+  }
+
+  body {
+    min-width: 280px;
   }
 
   main {

@@ -17,6 +17,7 @@ main {
   background-image: url("../img/airline.jpg");
   background-size: cover;
   background-size: auto;
+  background-repeat: no-repeat;
 }
 
 #logo {
